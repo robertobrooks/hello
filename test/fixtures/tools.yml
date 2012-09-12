@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  weight: 1
+  bought_on: 2012-09-11
+
+two:
+  name: MyString
+  weight: 1
+  bought_on: 2012-09-11
